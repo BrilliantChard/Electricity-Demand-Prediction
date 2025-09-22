@@ -21,7 +21,7 @@ By leveraging **machine learning techniques**, the project enables proactive mea
 - **Python** → Data processing & modeling  
 - **Pandas, NumPy** → Data manipulation  
 - **Matplotlib, Seaborn** → Visualization  
-- **Scikit-learn** → Machine learning models  
+- **Scikit-learn, XGBoost** → Machine learning models  
 - **Jupyter Notebook** → Experiments & documentation  
 
 ---
